@@ -1,0 +1,12 @@
+# ninja log v5
+100	1180	7606530476398428	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bb1a923ff7b66a13
+1182	2764	7606530490552229	D:/Meer Games/Unity Projects/BrickBreaker_YaariGames/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5i3m1w34/obj/arm64-v8a/libswappywrapper.so	91623fb5cc9f7381
+32	4822	7606530513053350	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	7d17681a2d3ea367
+65	4935	7606530514288184	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	deafa7fb5a4c4a0d
+25	4990	7606530514621711	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	89c01640ed3f7394
+76	5074	7606530515822575	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	7f40a16174c25f9c
+88	5367	7606530518073900	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	fe4f4cb07cc253ae
+16	5602	7606530520814390	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	c5f679fabae857de
+45	5986	7606530524942002	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	c5dbc4bb099dbec8
+1	6163	7606530526845817	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	88180f9e1c216e02
+6163	6486	7606530530198677	D:/Meer Games/Unity Projects/BrickBreaker_YaariGames/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5i3m1w34/obj/arm64-v8a/libgame.so	538541d5efcb0993
