@@ -30,6 +30,7 @@ as I applied for Unity developer Position
   - Darker than the hardest brick to signify its sturdiness.
 - **Ball:** Vibrant red to stand out against the background and bricks.
 - **Borders:** Darker than the hardest brick, indicating they are indestructible.
+- **Fx**: Didn't used particle system because of perfomance issue, simply made sprites for broken briks and also cracks sprite
 
 ---
 
