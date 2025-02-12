@@ -4,6 +4,8 @@ To run the game you can build it through unity selecting android platform
 or just download it from the link:
 https://drive.google.com/file/d/1oSyTDRRL212w7ZIeWv0HV9Nh9m2m8Z4U/view?usp=sharing
 
+---
+
 **Game Design Breakdown: BreakTheBricks**
 
 **Game Overview:**
