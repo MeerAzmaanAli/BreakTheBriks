@@ -1,4 +1,4 @@
-This is is the unity project you can clone this repo and open it in unity from scene folder
+This is is the unity project you can clone this repo and open it in unity, from scene folder
 open samplescene
 
 To run the game you can build it through unity selecting android platform
